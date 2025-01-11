@@ -1,6 +1,6 @@
 # cybersecurity-portfolio
 ## About Me
-Hello! I am Liu Yusha, a student passionate about cybersecurity. I am particularly interested in network security, ethical hacking, and penetration testing.
+Hello! I am Liu Yusha, a student in um. passionate about cybersecurity. I am particularly interested in network security, ethical hacking, and penetration testing.
 
 ![Profile Picture](link-to-your-photo.jpg)
 ## Technical Skills
