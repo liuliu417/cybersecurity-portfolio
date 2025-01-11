@@ -29,5 +29,5 @@ Hello! I am Liu Yusha, a student passionate about cybersecurity. I am particular
 My goal is to become a Cybersecurity Analyst focusing on threat detection and mitigation, working in a top cybersecurity firm.
 ## Contact Information
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **Email:** 897777130@qq.com
 - **GitHub:** [Your GitHub](https://github.com/yourusername)
