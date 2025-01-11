@@ -26,7 +26,7 @@ Hello! I am Liu Yusha, a student passionate about cybersecurity. I am particular
 - I have learned how to secure networks, perform ethical hacking, and detect vulnerabilities.
 - I find penetration testing tools like Metasploit and Burp Suite challenging, but I plan to improve through practice and courses.
 ## Career Objective
-My goal is to become a Cybersecurity Analyst focusing on threat detection and mitigation, working in a top cybersecurity firm.
+My goal is to become a Cybersecurity Analyst focusing on threat detection and mitigation, working in a top cybersecurity firm.My goal is to become an excellent computer science teacher
 ## Contact Information
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Email:** 897777130@qq.com
