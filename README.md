@@ -4,8 +4,8 @@ Hello! I am Liu Yusha, a student passionate about cybersecurity. I am particular
 
 ![Profile Picture](link-to-your-photo.jpg)
 ## Technical Skills
-- **Tools:** Nmap, Wireshark, sublime,Dreamweaver
-- **Languages:** Python, java, C++
+- **Tools:** Nmap, Wireshark, sublime,Dreamweavern,Cisco Packet Tracer
+- **Languages:** Python, java, C++，C
 - **Networking:** TCP/IP, DNS, HTTP, SSL/TLS
 ## Certifications and Training
 - CompTIA Security+ (Completed)
